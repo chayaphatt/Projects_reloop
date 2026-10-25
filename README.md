@@ -23,5 +23,5 @@
 
 ## How to View
 
-1. ดูผลงานส่วน Front-end ออนไลน์ผ่านหน้าเว็บจริง 👉 [ [https://chayaphatt.github.io/Projects_reloop/]
+1. ดูผลงานส่วน Front-end ออนไลน์ผ่านหน้าเว็บจริง 👉  [https://chayaphatt.github.io/Projects_reloop/]
 2. สำหรับการทดสอบระบบ Backend และฐานข้อมูลจำลองแบบเต็มรูปแบบ สามารถโคลนโปรเจกต์และรันผ่าน Localhost ด้วยคำสั่ง `node server.js`
